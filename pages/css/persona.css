@@ -1,0 +1,49 @@
+.geheel {
+    column-count: 3;
+    column-gap: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+
+}
+
+h1 {
+    margin-left: 150px;
+    font-size: 50px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.item {
+    background-color: #FFF;
+    display: inline-block;
+    margin: 0 0 15px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.329);
+}
+
+
+body {
+    background-color: #eee
+}
+
+
+.footer {
+    width: 100%;
+    margin-left: -30px;
+    margin-right: -30px;
+    margin-bottom: -50px;
+    padding: 30px;
+    height: 50px;
+    background-color: rgb(95, 95, 95);
+}
+a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
