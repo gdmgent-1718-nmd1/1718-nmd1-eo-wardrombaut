@@ -1,0 +1,49 @@
+body {
+    background-color: #3C3C3C;
+}
+
+.geheel {
+    background-color:white;
+    border-radius: 30px;
+    margin: auto;
+    max-width: 600px;
+    padding: 100px;
+}
+
+.vak {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+.kleurenlint {
+    column-count: 5;
+    column-gap: 50px;
+}
+
+.bruin {background-color: #DA9B4B;}
+.paars {background-color: #41509D;}
+.lichtgrijs {background-color: #B3B2B2;}
+.donkergrijs {background-color: #3C3C3C;}
+.groen {background-color: #3C6D41;}
+
+
+.hoofd {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    color: #DA9B4B;
+    font-size: 100px;
+}
+
+.ondertitel {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    color: #41509D;
+    font-size: 50px;
+} 
+
+.tekst {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3C3C3C;
+    font-size: 22px;
+    line-height: 40px;
+} 
