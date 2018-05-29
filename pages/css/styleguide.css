@@ -91,4 +91,15 @@ a:hover {
 }
 a:active{background-color:#3C3C3C;}
 
+.sterren {
+    color: #B2B2B2;
+    font-size: 60px;
+    letter-spacing: 10px;
+    display: inline;
+}
 
+.ster1:hover {color: #41509D ;}
+.ster2:hover {color: #41509D ;}
+.ster3:hover {color: #41509D ;}
+.ster4:hover {color: #41509D ;}
+.ster5:hover {color: #41509D ;}
