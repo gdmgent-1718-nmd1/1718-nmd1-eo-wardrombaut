@@ -69,7 +69,7 @@ img {
 .knop{
     background-color: #41509D;
     color: white;
-    font-weight: light;
+    font-weight: lighter;
     font-family: 'Roboto Condensed', sans-serif;
     display: inline-block;
     padding: 15px;
@@ -127,3 +127,109 @@ input[type=text] {
 }
 
 .DIGITAL {font-size:70px;}
+
+
+
+.footer {
+    width: 100%;
+    margin-left: -30px;
+    margin-right: -30px;
+    margin-bottom: -200px;
+    padding: 30px;
+     
+    height: 50px;
+    background-color: rgb(95, 95, 95);
+}
+
+.kolom {
+    column-count: 2;
+    column-gap: 50px;
+}
+
+.zijbalk {
+    padding:35px;
+    padding-bottom: 55px;
+    background-color: #DA9B4B;
+    color: white;
+    border-radius: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    line-height: 50px;
+    
+}
+
+.kalender {
+    background-color: #E8E8E8;
+    border-radius: 17px;
+    width: 88px;
+    height: 103px;
+    margin:0;
+ 
+}
+
+.getal{
+    font-size: 60px;
+    display: inline-block;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    color: #3C3C3C;
+    align-content: center;
+    margin: 0px;
+    padding-left: 27px;
+    
+}
+
+.maand{
+    font-size: 18px;
+
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3C3C3C;
+    align-content: center;
+    margin: 0px;
+    padding-left: 27px;   
+}
+
+.data{
+    column-count: 2;
+    column-gap: 0px;
+    padding-bottom: 30px;
+}
+
+.stoelen{
+    color: #3B6C40;
+    font-size: 22px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.uur {
+    color: #3C3C3C;
+    font-size: 22px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.voorbeeld {
+width: 154px;
+height: 47px;
+padding: 0px;
+font-size: 22px;
+border-radius: 20px;
+text-align: center;
+vertical-align: middle;
+line-height: 50px; 
+margin:0;
+}
+
+.voorbeeld:hover {
+    background-color: #3C6D41;
+    transition-duration: 0.3s;    
+}
+.voorbeeld:active{background-color:#3C3C3C;}
+
+.datakolom {
+    column-count: 2;
+    column-gap: 170px;
+}
